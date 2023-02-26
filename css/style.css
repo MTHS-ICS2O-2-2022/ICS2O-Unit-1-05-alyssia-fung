@@ -22,15 +22,15 @@
 }
 
 .mdl-textfield__error {
-  color: rgba(144 238 144 0.682);
+  color: rgba(144 238 144 68.2%);
 }
 
 .page-content {
-  color: rgba(255 255 255 0.866);
+  color: rgba(255 255 255 86.6%);
   font-family: Helvetica, Arial, sans-serif;
   font-size: 1.25rem;
 }
 
 body {
-  background-color: rgb(55, 86, 143);
+  background-color: rgb(55 86 143);
 }
